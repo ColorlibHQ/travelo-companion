@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.travelo-pt-100 {
+    padding-top: 100px;
+}
+.travelo-pt-80 {
+    padding-top: 80px;
+}
+.travelo-pt-70 {
+    padding-top: 70px;
+}
+.travelo-pt-60 {
+    padding-top: 60px;
+}
+.travelo-pt-50 {
+    padding-top: 50px;
+}
+.travelo-pt-30 {
+    padding-top: 30px;
+}
+.travelo-pb-100 {
+    padding-bottom: 100px;
+}
+.travelo-pb-80 {
+    padding-bottom: 80px;
+}
+.travelo-pb-70 {
+    padding-bottom: 70px;
+}
+.travelo-pb-60 {
+    padding-bottom: 60px;
+}
+.travelo-pb-50 {
+    padding-bottom: 50px;
+}
+.travelo-pb-30 {
+    padding-bottom: 30px;
+}
